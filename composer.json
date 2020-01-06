@@ -20,5 +20,6 @@
 		  "xenice\\optimize\\":"optimize/",
 		  "xenice\\mail\\":"mail/"
 		}
-	}
+	},
+	"files": ["option/functions.php"],
 }
